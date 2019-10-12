@@ -1,7 +1,7 @@
 
 # Geany Color Schemes
 
-Este es solo una carpeta con todos los esquemas de color que he encontradi para Geany IDE.
+Este es solo una carpeta con todos los esquemas de color que he encontrado para Geany IDE.
 
 En esta carpeta se encuentran los esquemas de color generados por la comunidad.
 
