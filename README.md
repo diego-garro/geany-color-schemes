@@ -20,7 +20,7 @@ Al igual que en sistemas Unix, solo es necesario pegar la carpeta `colorschemes`
 de `C:\Users\YourUserName\AppData\Roaming\geany\colorschemes`. La ruta exacta dependerá
 de donde se realizó la instalación de Geany IDE en tu computadora.
 
-### Más esquemas de color
+## Más esquemas de color
 
 Conforme encuentre más esquemas de color en GitHub o la web en general los iré añadiendo
-a este repositorio. También estaré añadiendo los míos propios en cuanto pueda.
+a este repositorio. También estaré añadiend los míos propios en cuanto pueda.
