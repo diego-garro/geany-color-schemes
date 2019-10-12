@@ -23,4 +23,4 @@ de donde se realizó la instalación de Geany IDE en tu computadora.
 ### Más esquemas de color
 
 Conforme encuentre más esquemas de color en GitHub o la web en general los iré añadiendo
-a este repositorio. También estaré aprendiendo los míos propios en cuanto pueda.
+a este repositorio. También estaré añadiendo los míos propios en cuanto pueda.
